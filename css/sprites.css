@@ -1,0 +1,61 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<i class="icon-home"></i>
+```
+*/
+.icon-sprite-award {
+  background-image: url(../images/output/spritesheet.png);
+  background-position: -501px 0px;
+  width: 165px;
+  height: 164px;
+}
+.icon-sprite-book-search {
+  background-image: url(../images/output/spritesheet.png);
+  background-position: 0px 0px;
+  width: 165px;
+  height: 166px;
+}
+.icon-sprite-book-time {
+  background-image: url(../images/output/spritesheet.png);
+  background-position: -167px 0px;
+  width: 165px;
+  height: 166px;
+}
+.icon-sprite-book {
+  background-image: url(../images/output/spritesheet.png);
+  background-position: -334px 0px;
+  width: 165px;
+  height: 166px;
+}
+.icon-sprite-certificate {
+  background-image: url(../images/output/spritesheet.png);
+  background-position: 0px -168px;
+  width: 165px;
+  height: 166px;
+}
+.icon-sprite-chessman {
+  background-image: url(../images/output/spritesheet.png);
+  background-position: -167px -168px;
+  width: 165px;
+  height: 166px;
+}
+.icon-sprite-cup {
+  background-image: url(../images/output/spritesheet.png);
+  background-position: -334px -168px;
+  width: 165px;
+  height: 166px;
+}
+.icon-sprite-mobile {
+  background-image: url(../images/output/spritesheet.png);
+  background-position: -501px -166px;
+  width: 165px;
+  height: 164px;
+}
+.icon-sprite-tablet {
+  background-image: url(../images/output/spritesheet.png);
+  background-position: 0px -336px;
+  width: 165px;
+  height: 164px;
+}

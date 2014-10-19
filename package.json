@@ -1,0 +1,23 @@
+{
+  "name": "learning-sprites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Nauz@github.com/Nauz/Learning-css-sprites.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nauz/Learning-css-sprites/issues"
+  },
+  "homepage": "https://github.com/Nauz/Learning-css-sprites",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-spritesmith": "^2.20.0"
+  }
+}
