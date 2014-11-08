@@ -1,0 +1,80 @@
+
+body
+{
+    padding-top: 70px;
+    padding-bottom: 0;
+}
+.wrapper
+{
+    /*max-width:1210px;*/
+    display: block;
+
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.sub
+{
+    padding: 30px 0 30px;
+}
+
+
+h1
+{
+    font-size: 32.5px;
+}
+
+
+.thumbnail
+{
+    margin-bottom: 30px;
+}
+
+.thumbnail img
+{
+    min-width: 100%;
+}
+footer
+{
+    margin-top: 40px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+
+    border-top: 1px solid #dedede;
+    background: rgba(50,50,50, .05);
+}
+
+.related-projects
+{
+    margin-top: 20px;
+    padding-top: 20px;
+}
+@media (min-width: 992px) and (max-width: 1200px)
+{
+}
+
+@media(min-width: 768px) and (max-width: 992px)
+{
+}
+
+@media (max-width: 992px)
+{
+    .navbar .btn-navbar
+    {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 767px)
+{
+    .container
+    {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    body
+    {
+        padding-top: 70px;
+    }
+}
